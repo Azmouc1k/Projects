@@ -1,2 +1,2 @@
-# azmo-portfolio
+# Projects
 Azim's portfolio
